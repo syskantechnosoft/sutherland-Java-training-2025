@@ -1,0 +1,71 @@
+# Java .gitignore template
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Java Web Application
+hs_err_pid*
+replay_pid*
+
+# Maven
+target/
+!src/main/resources/
+!src/test/resources/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Gradle Wrapper
+gradle-wrapper.jar
+
+# Eclipse
+.settings/
+.project
+.classpath
+# Eclipse Core
+.metadata/
+# Eclipse Thumbnails
+*.tmb
+# Eclipse IDE
+*.swp
+# Eclipse Language Settings
+.language.settings.xml
+
+# IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# NetBeans
+b...
