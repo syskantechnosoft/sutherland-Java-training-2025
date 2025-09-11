@@ -1,0 +1,10 @@
+insert into users (id, name, email, mobile) values (1, 'Theresa Lepoidevin', 'tlepoidevin0@ucoz.ru', '8627996509');
+insert into users (id, name, email, mobile) values (2, 'Troy MacSkeaghan', 'tmacskeaghan1@desdev.cn', '7309428257');
+insert into users (id, name, email, mobile) values (3, 'Ced Gummary', 'cgummary2@mapquest.com', '9275897433');
+insert into users (id, name, email, mobile) values (4, 'Zack Tomson', 'ztomson3@soundcloud.com', '8865946488');
+insert into users (id, name, email, mobile) values (5, 'Montague Yekel', 'myekel4@kickstarter.com', '6456354498');
+insert into users (id, name, email, mobile) values (6, 'Natassia Widdocks', 'nwiddocks5@hubpages.com', '8348217539');
+insert into users (id, name, email, mobile) values (7, 'Marcellus Librey', 'mlibrey6@mlb.com', '7807566971');
+insert into users (id, name, email, mobile) values (8, 'Stacia Rodgers', 'srodgers7@archive.org', '7432166545');
+insert into users (id, name, email, mobile) values (9, 'Piper Carverhill', 'pcarverhill8@vimeo.com', '9796248653');
+insert into users (id, name, email, mobile) values (10, 'Hillyer Awdry', 'hawdry9@google.it', '9183614862');
