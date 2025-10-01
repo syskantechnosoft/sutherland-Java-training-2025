@@ -1,0 +1,5 @@
+# Created at 2025-10-01T05:10:47.784
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Training\Sutherland MindMap\STS WS\ars\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
