@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/hrdb
+    username: root
+    password: root
+
+mongo:
+  uri: mongodb://localhost:27017/hrdb
+
+server:
+  port: 8085
