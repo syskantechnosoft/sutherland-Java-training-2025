@@ -1,0 +1,3 @@
+{"flightId":"FL003","origin":"NY","destination":"Tokyo","totalPassengers":1,"totalRevenue":2400.0,"classDistribution":["BUSINESS"]}
+{"flightId":"FL001","origin":"NY","destination":"London","totalPassengers":3,"totalRevenue":2000.0,"classDistribution":["ECONOMY","BUSINESS","ECONOMY"]}
+{"flightId":"FL002","origin":"London","destination":"Paris","totalPassengers":1,"totalRevenue":100.0,"classDistribution":["ECONOMY"]}
