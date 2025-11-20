@@ -1,0 +1,4 @@
+com\example\sparkfafkademo\service\ProducerService.class
+com\example\sparkfafkademo\service\SparkStreamingService.class
+com\example\sparkfafkademo\SparkkafkademoApplication.class
+com\example\sparkfafkademo\controller\MessageController.class

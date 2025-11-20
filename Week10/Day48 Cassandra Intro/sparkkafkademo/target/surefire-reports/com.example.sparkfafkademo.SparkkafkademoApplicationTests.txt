@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.sparkfafkademo.SparkkafkademoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.180 s -- in com.example.sparkfafkademo.SparkkafkademoApplicationTests
